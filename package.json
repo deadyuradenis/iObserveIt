@@ -1,0 +1,29 @@
+{
+  "name": "iobserveit",
+  "version": "1.0.0",
+  "description": "Calculating the percentage of elements visibility on js",
+  "main": "src/iObserveIt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deadyuradenis/iObserveIt.git"
+  },
+  "keywords": [
+    "percentage",
+    "of",
+    "visibility",
+    "observe",
+    "element",
+    "visibility",
+    "scroll",
+    "percent"
+  ],
+  "author": "deadyuradenis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deadyuradenis/iObserveIt/issues"
+  },
+  "homepage": "https://github.com/deadyuradenis/iObserveIt#readme"
+}
